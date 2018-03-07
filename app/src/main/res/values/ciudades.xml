@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="arreglociudades">
+        <item>Leticia</item>
+        <item>Medellin</item>
+        <item>Arauca</item>
+        <item>Barranquilla</item>
+        <item>Bogota</item>
+        <item>Cartagena</item>
+        <item>Tunja</item>
+        <item>Manizales</item>
+        <item>Florencia</item>
+        <item>Yopal</item>
+        <item>Popayan</item>
+        <item>Valledupar</item>
+        <item>Quibdo</item>
+        <item>Monteria</item>
+        <item>Inirida</item>
+        <item>S.J.Guabiare</item>
+        <item>Neiva</item>
+        <item>Riohacha</item>
+        <item>Santa Marta</item>
+        <item>Villavicencio</item>
+        <item>Pasto</item>
+        <item>Cucuta</item>
+        <item>Mocoa</item>
+        <item>Armenia</item>
+        <item>Pereira</item>
+        <item>San Andres</item>
+        <item>Bucaramanga</item>
+        <item>Sincelejo</item>
+        <item>Ibague</item>
+        <item>Cali</item>
+        <item>Mitu</item>
+        <item>Puerto Carreno</item>
+    </string-array>
+</resources>

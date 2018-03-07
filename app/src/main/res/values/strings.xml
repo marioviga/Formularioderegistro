@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Formulario de registro</string>
+    <string name="Nombre">Nombre: </string>
+    <string name="contrasena">Contraseña:</string>
+    <string name="masculino">Masculino</string>
+    <string name="femenino">Femenino</string>
+    <string name="ciudad">Ciudad de nacimiento:</string>
+    <string name="cine">Ir al cine</string>
+    <string name="leer">Leer</string>
+    <string name="TV">Ver TV</string>
+    <string name="pasear">Pasear</string>
+    <string name="pasatiempos">Pasatiempos</string>
+</resources>
